@@ -1,0 +1,13 @@
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\bin\Debug\netcoreapp3.1\FSLabProjeto.exe
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\bin\Debug\netcoreapp3.1\FSLabProjeto.deps.json
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\bin\Debug\netcoreapp3.1\FSLabProjeto.runtimeconfig.json
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\bin\Debug\netcoreapp3.1\FSLabProjeto.runtimeconfig.dev.json
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\bin\Debug\netcoreapp3.1\FSLabProjeto.dll
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\bin\Debug\netcoreapp3.1\FSLabProjeto.pdb
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\obj\Debug\netcoreapp3.1\FSLabProjeto.csprojAssemblyReference.cache
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\obj\Debug\netcoreapp3.1\FSLabProjeto.AssemblyInfoInputs.cache
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\obj\Debug\netcoreapp3.1\FSLabProjeto.AssemblyInfo.cs
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\obj\Debug\netcoreapp3.1\FSLabProjeto.csproj.CoreCompileInputs.cache
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\obj\Debug\netcoreapp3.1\FSLabProjeto.dll
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\obj\Debug\netcoreapp3.1\FSLabProjeto.pdb
+C:\Users\eclesiomelo\source\repos\FSLabProjeto\FSLabProjeto\obj\Debug\netcoreapp3.1\FSLabProjeto.genruntimeconfig.cache

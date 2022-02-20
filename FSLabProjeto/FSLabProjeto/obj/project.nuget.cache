@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dFbNwz7B85tCQd227q3EkJgeny+Xy3T4wlN9bRfVmJX/8j9YNiJwXqHhHRo5eMVI5dODmRYaakQF/cdpic/o5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eclesiomelo\\source\\repos\\FSLabProjeto\\FSLabProjeto\\FSLabProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eclesiomelo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
